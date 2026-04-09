@@ -1,0 +1,1 @@
+nao devemos misturar varios tipos de alterações em um unico commit porque isso dificulta a organização e o entendimento do projeto
